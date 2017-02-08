@@ -1,0 +1,272 @@
+City,District,Village,Postal Code,number_of_bus
+Jakarta Pusat,Gambir,Gambir,10110,18
+Jakarta Pusat,Gambir,Kebon Kelapa,10120,5
+Jakarta Pusat,Gambir,Petojo Selatan,10130,10
+Jakarta Pusat,Gambir,Duri Pulo,10140,3
+Jakarta Pusat,Gambir,Cideng,10150,14
+Jakarta Pusat,Gambir,Petojo Utara,10160,5
+Jakarta Pusat,Tanah Abang,Bendungan Hilir,10210,6
+Jakarta Pusat,Tanah Abang,Karet Tengsin,10220,4
+Jakarta Pusat,Tanah Abang,Kebon Melati,10230,1
+Jakarta Pusat,Tanah Abang,Kebon Kacang,10240,10
+Jakarta Pusat,Tanah Abang,Kampung Bali,10250,12
+Jakarta Pusat,Tanah Abang,Petamburan,10260,6
+Jakarta Pusat,Tanah Abang,Gelora,10270,15
+Jakarta Pusat,Menteng,Menteng,10310,10
+Jakarta Pusat,Menteng,Pegangsaan,10320,6
+Jakarta Pusat,Menteng,Cikini,10330,3
+Jakarta Pusat,Menteng,Kebon Sirih,10340,7
+Jakarta Pusat,Menteng,Gondangdia,10350,1
+Jakarta Pusat,Senen,Senen,10410,32
+Jakarta Pusat,Senen,Kwitang,10420,5
+Jakarta Pusat,Senen,Kenari,10430,15
+Jakarta Pusat,Senen,Paseban,10440,5
+Jakarta Pusat,Senen,Kramat,10450,47
+Jakarta Pusat,Senen,Bungur,10460,16
+Jakarta Pusat,Cempaka Putih,Cempaka Putih Timur,10510,7
+Jakarta Pusat,Cempaka Putih,Cempaka Putih Barat,10520,3
+Jakarta Pusat,Cempaka Putih,Rawasari,10530,4
+Jakarta Pusat,Johar Baru,Galur,10530,3
+Jakarta Pusat,Johar Baru,Tanah Tinggi,10540,8
+Jakarta Pusat,Johar Baru,Kampung Rawa,10550,2
+Jakarta Pusat,Johar Baru,Johar Baru,10560,8
+Jakarta Pusat,Kemayoran,Gunung Sahari Selatan,10610,23
+Jakarta Pusat,Kemayoran,Kemayoran,10620,12
+Jakarta Pusat,Kemayoran,Kebon Kosong,10630,2
+Jakarta Pusat,Kemayoran,Harapan Mulia,10640,18
+Jakarta Pusat,Kemayoran,Cempaka Baru,10640,1
+Jakarta Pusat,Kemayoran,Utan Panjang,10650,8
+Jakarta Pusat,Kemayoran,Sumur Batu,10660,1
+Jakarta Pusat,Kemayoran,Serdang,10670,3
+Jakarta Pusat,Sawah Besar,Pasar Baru,10710,21
+Jakarta Pusat,Sawah Besar,Gunung Sahari Utara,10720,7
+Jakarta Pusat,Sawah Besar,Mangga Dua Selatan,10730,9
+Jakarta Pusat,Sawah Besar,Karang Anyar,10740,0
+Jakarta Pusat,Sawah Besar,Kartini,10750,1
+Jakarta Utara,Koja,Koja Utara,14210,1
+Jakarta Utara,Koja,Koja Selatan,14220,0
+Jakarta Utara,Koja,Koja,14220,2
+Jakarta Utara,Koja,Rawa Badak Utara,14230,6
+Jakarta Utara,Koja,Rawa Badak Selatan,14230,0
+Jakarta Utara,Koja,Tugu Utara,14260,15
+Jakarta Utara,Koja,Tugu Selatan,14260,0
+Jakarta Utara,Koja,Lagoa,14270,7
+Jakarta Utara,Kelapa Gading,Kelapa Gading Barat,14240,14
+Jakarta Utara,Kelapa Gading,Kelapa Gading Timur,14240,0
+Jakarta Utara,Kelapa Gading,Pegangsaan Dua,14250,2
+Jakarta Utara,Tanjung Priok,Tanjung Priok,14310,25
+Jakarta Utara,Tanjung Priok,Kebon Bawang,14320,5
+Jakarta Utara,Tanjung Priok,Sungai Bambu,14330,1
+Jakarta Utara,Tanjung Priok,Papanggo,14340,0
+Jakarta Utara,Tanjung Priok,Warakas,14340,2
+Jakarta Utara,Tanjung Priok,Sunter Agung,14350,21
+Jakarta Utara,Tanjung Priok,Sunter Jaya,14350,2
+Jakarta Utara,Pademangan,Pademangan Timur,14410,2
+Jakarta Utara,Pademangan,Pademangan Barat,14420,6
+Jakarta Utara,Pademangan,Ancol,14430,2
+Jakarta Utara,Penjaringan,Penjaringan,14430,0
+Jakarta Utara,Penjaringan,Pluit,14440,14
+Jakarta Utara,Penjaringan,Pejagalan,14450,15
+Jakarta Utara,Penjaringan,Kapuk Muara,14460,3
+Jakarta Utara,Penjaringan,Kamal Muara,14470,2
+Jakarta Utara,Cilincing,Kali Baru,14110,1
+Jakarta Utara,Cilincing,Cilincing,14120,9
+Jakarta Utara,Cilincing,Semper Barat,14130,8
+Jakarta Utara,Cilincing,Semper Timur,14130,0
+Jakarta Utara,Cilincing,Sukapura,14140,5
+Jakarta Utara,Cilincing,Rorotan,14140,2
+Jakarta Utara,Cilincing,Marunda,14150,2
+Jakarta Timur,Matraman,Pisangan Baru,13110,2
+Jakarta Timur,Matraman,Utan Kayu Selatan,13120,11
+Jakarta Timur,Matraman,Utan Kayu Utara,13120,0
+Jakarta Timur,Matraman,Kayu Manis,13130,2
+Jakarta Timur,Matraman,Pal Meriam,13140,0
+Jakarta Timur,Matraman,Kebon Manggis,13150,30
+Jakarta Timur,Pulo Gadung,Kayu Putih,13210,23
+Jakarta Timur,Pulo Gadung,Jati,13220,84
+Jakarta Timur,Pulo Gadung,Rawamangun,13220,17
+Jakarta Timur,Pulo Gadung,Pisangan Timur,13230,8
+Jakarta Timur,Pulo Gadung,Cipinang,13240,13
+Jakarta Timur,Pulo Gadung,Jatinegara Kaum,13250,1
+Jakarta Timur,Pulo Gadung,Pulo Gadung,13260,33
+Jakarta Timur,Jatinegara,Bali Mester,13310,2
+Jakarta Timur,Jatinegara,Kampung Melayu,13320,35
+Jakarta Timur,Jatinegara,Bidaracina,13330,10
+Jakarta Timur,Jatinegara,Cipinang Cempedak,13340,5
+Jakarta Timur,Jatinegara,Rawa Bunga,13350,1
+Jakarta Timur,Jatinegara,Cipinang Besar Utara,13410,21
+Jakarta Timur,Jatinegara,Cipinang Besar Selatan,13410,0
+Jakarta Timur,Jatinegara,Cipinang Muara,13420,3
+Jakarta Timur,Duren Sawit,Pondok Bambu,13430,13
+Jakarta Timur,Duren Sawit,Duren Sawit,13440,9
+Jakarta Timur,Duren Sawit,Pondok Kelapa,13450,14
+Jakarta Timur,Duren Sawit,Pondok Kopi,13450,3
+Jakarta Timur,Duren Sawit,Malaka Jaya,13460,9
+Jakarta Timur,Duren Sawit,Malaka Sari,13460,0
+Jakarta Timur,Duren Sawit,Klender,13460,16
+Jakarta Timur,Kramat Jati,Kramat Jati,13510,30
+Jakarta Timur,Kramat Jati,Batu Ampar,13520,1
+Jakarta Timur,Kramat Jati,Balekambang,13530,1
+Jakarta Timur,Kramat Jati,Kampung Tengah,13540,1
+Jakarta Timur,Kramat Jati,Dukuh,13550,5
+Jakarta Timur,Kramat Jati,Cawang,13630,31
+Jakarta Timur,Kramat Jati,Cililitan,13640,31
+Jakarta Timur,Makasar,Pinang Ranti,13560,3
+Jakarta Timur,Makasar,Makasar,13570,1
+Jakarta Timur,Makasar,Halim Perdanakusumah,13610,1
+Jakarta Timur,Makasar,Cipinang Melayu,13620,3
+Jakarta Timur,Makasar,Kebon Pala,13650,1
+Jakarta Timur,Pasar Rebo,Pekayon,13710,3
+Jakarta Timur,Pasar Rebo,Gedong,13760,3
+Jakarta Timur,Pasar Rebo,Cijantung,13770,4
+Jakarta Timur,Pasar Rebo,Baru,13780,29
+Jakarta Timur,Pasar Rebo,Kalisari,13790,2
+Jakarta Timur,Ciracas,Cibubur,13720,4
+Jakarta Timur,Ciracas,Kelapa Dua Wetan,13730,7
+Jakarta Timur,Ciracas,Ciracas,13740,6
+Jakarta Timur,Ciracas,Susukan ,13750,0
+Jakarta Timur,Ciracas,Rambutan,13830,20
+Jakarta Timur,Cipayung,Lubang Buaya,13810,17
+Jakarta Timur,Cipayung,Ceger,13820,1
+Jakarta Timur,Cipayung,Cipayung,13830,2
+Jakarta Timur,Cipayung,Munjul,13840,3
+Jakarta Timur,Cipayung,Pondok Ranggon,13630,0
+Jakarta Timur,Cipayung,Cilangkap,13870,3
+Jakarta Timur,Cipayung,Setu,13880,5
+Jakarta Timur,Cipayung,Bambu Apus,13890,1
+Jakarta Timur,Cakung,Cakung,13910,34
+Jakarta Timur,Cakung,Cakung Timur,13910,0
+Jakarta Timur,Cakung,Cakung Barat,13910,0
+Jakarta Timur,Cakung,Rawa Terate,13920,0
+Jakarta Timur,Cakung,Jatinegara,13930,7
+Jakarta Timur,Cakung,Penggilingan,13940,2
+Jakarta Timur,Cakung,Pulogebang,13950,4
+Jakarta Timur,Cakung,Ujung Menteng,13960,1
+Jakarta Selatan,Kebayoran Baru,Selong,12110,3
+Jakarta Selatan,Kebayoran Baru,Gunung,12120,15
+Jakarta Selatan,Kebayoran Baru,Kramat Pela,12130,14
+Jakarta Selatan,Kebayoran Baru,Gandaria Utara,12140,18
+Jakarta Selatan,Kebayoran Baru,Cipete Utara,12150,3
+Jakarta Selatan,Kebayoran Baru,Pulo,12160,48
+Jakarta Selatan,Kebayoran Baru,Melawai,12160,15
+Jakarta Selatan,Kebayoran Baru,Petogogan,12170,3
+Jakarta Selatan,Kebayoran Baru,Rawa Barat,12180,1
+Jakarta Selatan,Kebayoran Baru,Senayan,12190,20
+Jakarta Selatan,Kebayoran Lama,Grogol Utara,12210,19
+Jakarta Selatan,Kebayoran Lama,Grogol Selatan,12220,10
+Jakarta Selatan,Kebayoran Lama,Cipulir,12230,7
+Jakarta Selatan,Kebayoran Lama,Kebayoran Lama Utara,12240,25
+Jakarta Selatan,Kebayoran Lama,Kebayoran Lama Selatan,12240,0
+Jakarta Selatan,Kebayoran Lama,Pondok Pinang,12310,11
+Jakarta Selatan,Kebayoran Lama,Pondok Indah,12320,4
+Jakarta Selatan,Pesanggrahan,Ulujami,12250,9
+Jakarta Selatan,Pesanggrahan,Petukangan Utara,12260,4
+Jakarta Selatan,Pesanggrahan,Petukangan Selatan,12270,1
+Jakarta Selatan,Pesanggrahan,Pesanggrahan,12320,4
+Jakarta Selatan,Pesanggrahan,Bintaro,12330,5
+Jakarta Selatan,Cilandak,Cipete Selatan,12410,3
+Jakarta Selatan,Cilandak,Gandaria Selatan,12420,6
+Jakarta Selatan,Cilandak,Cilandak Barat,12430,14
+Jakarta Selatan,Cilandak,Lebak Bulus,12440,25
+Jakarta Selatan,Cilandak,Pondok Labu,12450,8
+Jakarta Selatan,Pasar Minggu,Pejaten Barat,12510,21
+Jakarta Selatan,Pasar Minggu,Pejaten Timur,12510,0
+Jakarta Selatan,Pasar Minggu,Pasar Minggu,12520,43
+Jakarta Selatan,Pasar Minggu,Kebagusan,12520,0
+Jakarta Selatan,Pasar Minggu,Jati Padang,12540,3
+Jakarta Selatan,Pasar Minggu,Ragunan,12550,21
+Jakarta Selatan,Pasar Minggu,Cilandak Timur,12560,18
+Jakarta Selatan,Jagakarsa,Tanjung Barat,12530,5
+Jakarta Selatan,Jagakarsa,Lenteng Agung,12610,8
+Jakarta Selatan,Jagakarsa,Jagakarsa,12620,9
+Jakarta Selatan,Jagakarsa,Ciganjur,12630,9
+Jakarta Selatan,Jagakarsa,Srengseng Sawah,12640,6
+Jakarta Selatan,Jagakarsa,Cipedak,12630,0
+Jakarta Selatan,Mampang Prapatan,Kuningan Barat,12710,2
+Jakarta Selatan,Mampang Prapatan,Pela Mampang,12720,6
+Jakarta Selatan,Mampang Prapatan,Bangka,12730,4
+Jakarta Selatan,Mampang Prapatan,Tegal Parang,12790,10
+Jakarta Selatan,Mampang Prapatan,Mampang Prapatan,14470,1
+Jakarta Selatan,Pancoran,Kalibata,12740,16
+Jakarta Selatan,Pancoran,Rawa Jati,12750,0
+Jakarta Selatan,Pancoran,Duren Tiga,12760,3
+Jakarta Selatan,Pancoran,Cikoko,12770,2
+Jakarta Selatan,Pancoran,Pengadegan,12770,3
+Jakarta Selatan,Pancoran,Pancoran,12780,13
+Jakarta Selatan,Tebet,Tebet Barat,12810,5
+Jakarta Selatan,Tebet,Tebet Timur,12820,5
+Jakarta Selatan,Tebet,Kebon Baru,12830,1
+Jakarta Selatan,Tebet,Bukit Duri,12840,8
+Jakarta Selatan,Tebet,Manggarai,12850,11
+Jakarta Selatan,Tebet,Manggarai Selatan,12860,6
+Jakarta Selatan,Tebet,Menteng Dalam,12870,9
+Jakarta Selatan,Setiabudi,Setiabudi,12910,1
+Jakarta Selatan,Setiabudi,Karet,12920,4
+Jakarta Selatan,Setiabudi,Karet Semanggi,12930,6
+Jakarta Selatan,Setiabudi,Karet Kuningan,12940,2
+Jakarta Selatan,Setiabudi,Kuningan Timur,12950,3
+Jakarta Selatan,Setiabudi,Menteng Atas,12960,2
+Jakarta Selatan,Setiabudi,Pasar Manggis,12970,5
+Jakarta Selatan,Setiabudi,Guntur,12980,6
+Jakarta Barat,Cengkareng,Kedaung Kali Angke,11710,2
+Jakarta Barat,Cengkareng,Kapuk,11720,17
+Jakarta Barat,Cengkareng,Cengkareng Barat,11730,13
+Jakarta Barat,Cengkareng,Cengkareng Timur,11730,0
+Jakarta Barat,Cengkareng,Rawa Buaya,11740,9
+Jakarta Barat,Cengkareng,Duri Kosambi,11750,5
+Jakarta Barat,Grogol Petamburan,Tomang,11440,4
+Jakarta Barat,Grogol Petamburan,Grogol,11450,16
+Jakarta Barat,Grogol Petamburan,Jelambar,11460,33
+Jakarta Barat,Grogol Petamburan,Jelambar Baru,11460,0
+Jakarta Barat,Grogol Petamburan,Wijaya Kusuma,11460,1
+Jakarta Barat,Grogol Petamburan,Tanjung Duren Utara,11470,9
+Jakarta Barat,Grogol Petamburan,Tanjung Duren Selatan,11470,0
+Jakarta Barat,Kalideres,Kamal,11810,7
+Jakarta Barat,Kalideres,Tegal Alur,11820,0
+Jakarta Barat,Kalideres,Pegadungan,11830,3
+Jakarta Barat,Kalideres,Kalideres,11840,11
+Jakarta Barat,Kalideres,Semanan,11850,1
+Jakarta Barat,Kebon Jeruk,Duri Kepa,11510,9
+Jakarta Barat,Kebon Jeruk,Kedoya Selatan,11520,12
+Jakarta Barat,Kebon Jeruk,Kedoya Utara,11520,0
+Jakarta Barat,Kebon Jeruk,Kebon Jeruk,11530,4
+Jakarta Barat,Kebon Jeruk,Sukabumi Utara,11540,3
+Jakarta Barat,Kebon Jeruk,Kelapa Dua,11550,1
+Jakarta Barat,Kebon Jeruk,Sukabumi Selatan,11560,12
+Jakarta Barat,Kembangan,Kembangan Selatan,11610,14
+Jakarta Barat,Kembangan,Kembangan Utara,11610,0
+Jakarta Barat,Kembangan,Meruya Utara,11620,37
+Jakarta Barat,Kembangan,Srengseng,11630,0
+Jakarta Barat,Kembangan,Joglo,11640,9
+Jakarta Barat,Kembangan,Meruya Selatan,11650,4
+Jakarta Barat,Palmerah,Slipi,11410,11
+Jakarta Barat,Palmerah,Kota Bambu Utara,11420,23
+Jakarta Barat,Palmerah,Jati Pulo,11430,1
+Jakarta Barat,Palmerah,Palmerah,11480,16
+Jakarta Barat,Palmerah,Kemanggisan,11480,5
+Jakarta Barat,Palmerah,Kota Bambu Selatan,11420,0
+Jakarta Barat,Taman Sari,Pinangsia,11110,16
+Jakarta Barat,Taman Sari,Glodok,11120,1
+Jakarta Barat,Taman Sari,Keagungan,11130,1
+Jakarta Barat,Taman Sari,Krukut,11140,2
+Jakarta Barat,Taman Sari,Taman Sari,11150,1
+Jakarta Barat,Taman Sari,Maphar,11160,6
+Jakarta Barat,Taman Sari,Tangki,11170,0
+Jakarta Barat,Taman Sari,Mangga Besar,11180,7
+Jakarta Barat,Tambora,Tanah Sereal,11210,7
+Jakarta Barat,Tambora,Tambora,11220,1
+Jakarta Barat,Tambora,Roa Malaka,11230,6
+Jakarta Barat,Tambora,Pekojan,11240,1
+Jakarta Barat,Tambora,Jembatan Lima,11250,4
+Jakarta Barat,Tambora,Kerendang,11260,0
+Jakarta Barat,Tambora,Duri Utara,11270,4
+Jakarta Barat,Tambora,Duri Selatan,11270,2
+Jakarta Barat,Tambora,Kalianyar,11310,0
+Jakarta Barat,Tambora,Jembatan Besi,11320,2
+Jakarta Barat,Tambora,Angke,11330,13
+Kepulauan Seribu,Kepulauan Seribu Utara,Pulau Kelapa,14540,0
+Kepulauan Seribu,Kepulauan Seribu Utara,Pulau Harapan,14540,0
+Kepulauan Seribu,Kepulauan Seribu Utara,Pulau Untung Jawa,14510,0
+Kepulauan Seribu,Kepulauan Seribu Selatan,Pulau Tidung,14520,0
+Kepulauan Seribu,Kepulauan Seribu Selatan,Pulau Pari,14520,0
+Kepulauan Seribu,Kepulauan Seribu Selatan,Pulau Panggang,14530,0
